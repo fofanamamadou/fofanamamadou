@@ -1,18 +1,32 @@
 # Hi there, I'm Mamadou Fofana! 👋
 
-### A Software Developer and AWS Certified Cloud Practitioner
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=fofanamamadou&label=Profile%20Views&color=007ACC&style=flat-square" alt="Profile Views" />
+</div>
 
-<div align="center">
+<br/>
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=505055&vCenter=true&width=600&height=40&lines=A+Software+Developer;AWS+Certified+Cloud+Practitioner" alt="Typing Animation" />
+</div>
+
+<br/>
+
+<div align="left">
   <a href="https://portfoliobymamadou.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-website-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mamadou-fofana-37326328b/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-Mamadou_Fofana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
 
 ---
 
-### Tech Stack
+### 🛠️ Core Tech Stack
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
@@ -20,11 +34,8 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 </div>
 
-### Let's connect and build something amazing together!
-<div align="center">
-    <a href="https://www.linkedin.com/in/mamadou-fofana-37326328b/" target="_blank">
-      <img src="https://img.shields.io/badge/Linkedin-Mamadou_Fofana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
+---
+
+<div align="left">
+  <sub>Let's connect and build something amazing together! 🚀</sub>
 </div>
-
-
