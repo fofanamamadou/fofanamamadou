@@ -29,7 +29,7 @@
 ### Connect with me 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mamadou-fofana-37326328b/" target="_blank">
+  <a href="https://www.linkedin.com/in/mamadou-fofana-76706429a/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-Mamadou_Fofana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
