@@ -1,4 +1,4 @@
-# Hi there, I'm Mamadou Fofana! 👋
+## Hi, I'm Mamadou Fofana !
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=fofanamamadou&label=Profile%20Views&color=007ACC&style=flat-square" alt="Profile Views" />
@@ -7,24 +7,14 @@
 <br/>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=505055&vCenter=true&width=600&height=40&lines=A+Software+Developer;AWS+Certified+Cloud+Practitioner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF7F&vCenter=true&width=600&height=40&lines=A+Software+Developer;AWS+Certified+Cloud+Practitioner" alt="Typing Animation" />
 </div>
 
-<br/>
 
-<div align="left">
-  <a href="https://portfoliobymamadou.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-website-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mamadou-fofana-37326328b/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-Mamadou_Fofana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-</div>
 
 ---
 
-### 🛠️ Core Tech Stack
+### Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -36,6 +26,16 @@
 
 ---
 
+### Connect with me 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mamadou-fofana-37326328b/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-Mamadou_Fofana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+</div>
+
+---
+
 <div align="left">
-  <sub>Let's connect and build something amazing together! 🚀</sub>
+  <sub>Let's connect and build something amazing together ! </sub>
 </div>
