@@ -1,16 +1,21 @@
 ## Hi, I'm Mamadou Fofana !
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=fofanamamadou&label=Profile%20Views&color=007ACC&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fofanamamadou&label=Profile%20Views&color=007ACC&style=flat-square&v=2" alt="Profile Views" />
 </div>
 
 <br/>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=00FF7F&vCenter=true&width=600&height=40&lines=A+Software+Developer;AWS+Certified+Cloud+Practitioner" alt="Typing Animation" />
+  <!-- S'affiche en blanc quand l'utilisateur est en mode sombre -->
+  <a href="#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=FFFFFF&vCenter=true&width=600&height=40&lines=A+Software+Developer;AWS+Certified+Cloud+Practitioner#gh-dark-mode-only" alt="Typing Animation Dark" />
+  </a>
+  <!-- S'affiche en noir quand l'utilisateur est en mode clair -->
+  <a href="#gh-light-mode-only">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=000000&vCenter=true&width=600&height=40&lines=A+Software+Developer;AWS+Certified+Cloud+Practitioner#gh-light-mode-only" alt="Typing Animation Light" />
+  </a>
 </div>
-
-
 
 ---
 
@@ -26,7 +31,7 @@
 
 ---
 
-### Connect with me 
+### Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mamadou-fofana-76706429a/" target="_blank">
@@ -37,5 +42,5 @@
 ---
 
 <div align="left">
-  <sub>Let's connect and build something amazing together ! </sub>
+  <sub>Let's connect and build something amazing together !</sub>
 </div>
